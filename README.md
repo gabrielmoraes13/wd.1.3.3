@@ -4,9 +4,9 @@
 
 # Game steps
 
-- At the start of the game, the deck is generated from a dictionary containing all 13 different cards as keys and their strength as values.
+- At the start of the game, the deck is generated from a list containing all 13 different card faces and another list containing all 4 card suits.
 
-- Then that dictionary is looped through 4 times so each card name can be used 4 times to generate a card object from the Class card, which will take the card's value as an attribute with the same name. Every time an object is generated it is appended to a list.
+- Then 52 card objects from the Class card are generated using all possible combinations of card faces and suits. Every time an object is generated it is appended to a list.
 
 - That list is then shuffled with the help of the random module and the cards from index 0 to index 25 are put into a list named player_one and the cards from index 26 to 51 in a list named player_two.
 
