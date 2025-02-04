@@ -16,4 +16,4 @@ If there's a war, 2 additional cards are drawn from each player's stack, but onl
 
 If one of the revealed cards is stronger than the other, the 'war' is over and the winning player takes all cards that are not in the stacks. Otherwise, the war continues.
 
-If a player is out of cards during a war, that player loses the game.
+If a player is out of cards during a war, that player loses the game. AAAAAAAAAAA
