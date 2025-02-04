@@ -14,10 +14,12 @@
 
 - If one card is greater than the other, the winning player adds both cards to the bottom of their stack and the game continues once the players decide to reveal the next card.
 
-- If there's a 'war' (a tie), 2 additional cards are drawn from each player's stack, but only one of them is revealed.
+- If there's a 'war' (a tie):
 
-- If one of the revealed cards is stronger than the other, the 'war' is over and the winning player takes all cards that are not in the stacks. Otherwise, the war continues.
+  - 2 additional cards are drawn from each player's stack, but only one of them is revealed.
 
-- If a player is out of cards during a war, that player loses the game.
+  - If one of the revealed cards is stronger than the other, the 'war' is over and the winning player takes all cards that are not in the stacks. Otherwise, the war continues.
+
+  - If a player is out of cards during a war, that player loses the game.
 
 - The game also ends if one of the players has all 52 cards, in which case that player wins.
